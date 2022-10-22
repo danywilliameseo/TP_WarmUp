@@ -282,7 +282,7 @@ for i in df_1_2_stars["text"]:
     print(new_tokens)       
    
     
-    break
+    
    
         
    
@@ -332,9 +332,6 @@ for i in df_1_2_stars["text"]:
 # In[79]:
 
 
-i = (1,"2")
-
-print(i[1])
 
 
 # In[ ]:
