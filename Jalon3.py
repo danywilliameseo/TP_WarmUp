@@ -26,6 +26,7 @@ import contractions
 
 
 nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 
 
 # In[7]:
