@@ -1,4 +1,4 @@
-
+contractions==0.1.72
 
 matplotlib==3.5.1
 nltk==3.7
