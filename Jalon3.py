@@ -25,6 +25,8 @@ from nltk.corpus import stopwords
 import contractions
 
 
+nltk.download('punkt')
+
 
 # In[7]:
 
