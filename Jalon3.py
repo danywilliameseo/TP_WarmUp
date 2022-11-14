@@ -27,6 +27,7 @@ import contractions
 
 nltk.download('punkt')
 nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
 
 
 # In[7]:
